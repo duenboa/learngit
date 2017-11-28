@@ -7,4 +7,4 @@ and this line123
 test checkout from cache->workspace.
 
 
-test reset
+test reset remove
