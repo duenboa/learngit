@@ -1,0 +1,12 @@
+update 123
+123456
+rebase change this line123
+123 master change this line123
+and this line123
+123
+test checkout from cache->workspace.
+
+
+test reset remove
+haha
+
